@@ -2,6 +2,10 @@
 
 Application web de livraison de nourriture.
 
+## Aperçu
+
+![Page d'accueil](screenshots/screenshot.png)
+
 ## Technologies
 
 ### Back-end
